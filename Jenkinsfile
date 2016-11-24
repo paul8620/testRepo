@@ -3,7 +3,7 @@ stage('World Peace') {
  sh "echo test"
 }
 
-Stage('World War'){
+stage('World War'){
  sh "echo test"
 }
 }

@@ -1,4 +1,4 @@
-node {
+node('master') {
 stage('World Peace') {
  sh "echo test"
 }

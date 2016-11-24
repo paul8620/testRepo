@@ -1,2 +1,2 @@
 # testRepo
-Updating the test Repo
+Upating the test Repo
